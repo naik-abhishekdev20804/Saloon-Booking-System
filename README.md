@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # GlamBook - Salon Booking System
 
 A full-stack MERN (MongoDB, Express, React, Node.js) application for discovering and booking appointments at salons. Salon owners can register their businesses, and customers can search, view details, and book appointments.
@@ -205,3 +206,13 @@ This project is open source and available under the MIT License.
 ## Support
 
 For support, email support@glambook.com or open an issue in the repository.
+=======
+# Saloon-Booking-System
+An Full-Stack website to  check for nearest saloon ,check  availability ,check price, book slot.
+
+
+
+
+
+<h2>**Comming soon....**</h2>
+>>>>>>> e915442b9f7bc71273176c144bbaa6e31cab9106
